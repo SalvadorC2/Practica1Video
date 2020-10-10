@@ -1,2 +1,2 @@
-Nombre:
-Edad:
+Nombre: Salvador Calderón
+Edad: 20 años
