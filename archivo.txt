@@ -1,3 +1,3 @@
-Nombre: Salvador Calderón
+﻿Nombre: Salvador Calderón
 Edad: 20 años
-Carrera:
+Carrera: Ingeniería petrolera
